@@ -1,1 +1,1 @@
-# PRJNA680536_ms_codes
+# scripts of PRJNA680536 RNA-seq analysis
